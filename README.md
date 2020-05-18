@@ -1,2 +1,3 @@
 # Chess-Game
-Un Joc de Sah Simplificat
+O versiune simplificata a unui joc de sah
+Mutarile se fac folosind adresele pieselor de pe tabla (adresa initiala si cea de destinatie)
